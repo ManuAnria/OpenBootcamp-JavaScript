@@ -12,5 +12,8 @@
     "firstproject"
   ],
   "author": "Manuel Anria",
-  "license": "ISC"
+  "license": "ISC",
+
+  "_comment1": "Para crear un proyecto con npm, se debe ejecutar el comando npm init, el cual nos pedirá que llenemos los datos del archivo package.json, el cual es el archivo que contiene la información del proyecto",
+  "_comment2": "Para ejecutar el script saludar, se debe ejecutar el comando npm run saludar, el cual ejecutará el script saludar, el cual ejecutará el archivo intro.js"
 }
