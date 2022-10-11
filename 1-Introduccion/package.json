@@ -1,0 +1,16 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto con node",
+  "main": "intro.js",
+  "scripts": {
+    "saludar": "node intro.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Manuel Anria",
+  "license": "ISC"
+}
